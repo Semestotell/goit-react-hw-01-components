@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Semestotell/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Semestotell/goit-react-hw-01-components/static/js/main.a443d80f.js",
+    "main.js": "/Semestotell/goit-react-hw-01-components/static/js/main.ea52f873.js",
     "index.html": "/Semestotell/goit-react-hw-01-components/index.html",
     "main.7acaea2f.css.map": "/Semestotell/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.a443d80f.js.map": "/Semestotell/goit-react-hw-01-components/static/js/main.a443d80f.js.map"
+    "main.ea52f873.js.map": "/Semestotell/goit-react-hw-01-components/static/js/main.ea52f873.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.a443d80f.js"
+    "static/js/main.ea52f873.js"
   ]
 }
